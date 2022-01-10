@@ -1,9 +1,0 @@
-gensim==4.1.2
-matplotlib==3.3.4
-mycolorpy==1.5.1
-nltk==3.6.1
-numpy==1.20.1
-pandas==1.2.4
-pyLDAvis==3.3.1
-spacy==2.3.2
-squarify==0.4.3
